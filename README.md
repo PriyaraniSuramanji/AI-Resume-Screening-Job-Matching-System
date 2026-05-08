@@ -237,6 +237,4 @@ There is a noticeable gap in systems that can truly understand the context and m
 
 ---
 
-# Best Title for Diagram
 
-## AI-Based Smart Resume Screening and Job Matching System Using NLP and Machine Learning
