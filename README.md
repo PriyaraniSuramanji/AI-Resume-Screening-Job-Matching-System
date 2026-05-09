@@ -1,4 +1,16 @@
-![Image Description](https://github.com/PriyaraniSuramanji/AI-Resume-Screening-Job-Matching-System/blob/7a169b913bb6c910e5a4c9036bd4d60e6ec8e63f/2sp.jpeg)
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://github.com/PriyaraniSuramanji/AI-Resume-Screening-Job-Matching-System/blob/7a169b913bb6c910e5a4c9036bd4d60e6ec8e63f/2sp.jpeg" width="150px">
+    </td>
+    <td align="right" width="50%">
+      <img src="https://githubusercontent.com" width="150px">
+    </td>
+  </tr>
+</table>
+
+
+![Image Description]()
 
 
 AI-Based Resume Screening and Job Matching Systems 
