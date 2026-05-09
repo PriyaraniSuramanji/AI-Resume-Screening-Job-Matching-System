@@ -4,7 +4,7 @@
       <img src="https://github.com/PriyaraniSuramanji/AI-Resume-Screening-Job-Matching-System/blob/7a169b913bb6c910e5a4c9036bd4d60e6ec8e63f/2sp.jpeg" width="150px">
     </td>
     <td align="right" width="50%">
-      <img src="https://githubusercontent.com" width="150px">
+      <img src="https://github.com/PriyaraniSuramanji/AI-Resume-Screening-Job-Matching-System/blob/b142c664cb8e0ef1f539086a1d36fa8df1206fb7/1sp.jpeg" width="150px">
     </td>
   </tr>
 </table>
