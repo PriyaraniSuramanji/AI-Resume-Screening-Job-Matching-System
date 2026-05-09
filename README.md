@@ -1,4 +1,4 @@
-![Image Description](PASTE_YOUR_LINK_HERE)
+![Image Description](https://github.com/PriyaraniSuramanji/AI-Resume-Screening-Job-Matching-System/blob/7a169b913bb6c910e5a4c9036bd4d60e6ec8e63f/2sp.jpeg)
 
 
 AI-Based Resume Screening and Job Matching Systems 
