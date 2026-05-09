@@ -1,12 +1,14 @@
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-
+<table width="100%" border="0">
+<tr>
+<td align="left" border="0">
 <img src="https://raw.githubusercontent.com/PriyaraniSuramanji/AI-Resume-Screening-Job-Matching-System/7a169b913bb6c910e5a4c9036bd4d60e6ec8e63f/2sp.jpeg" width="170">
+</td>
 
+<td align="right" border="0">
 <img src="https://raw.githubusercontent.com/PriyaraniSuramanji/AI-Resume-Screening-Job-Matching-System/b142c664cb8e0ef1f539086a1d36fa8df1206fb7/1sp.jpeg" width="220">
-
-</div>
-
-<br><br>
+</td>
+</tr>
+</table>
 
 # AI-Based Resume Screening and Job Matching Systems
 
