@@ -1,5 +1,5 @@
 # AI-Resume-Screening-Job-Matching-System
-AI-powered system to automate resume screening and intelligently match candidates with job roles using semantic understan
+AI-powered system to automate resume screening and intelligently match candidates with job roles using  understand
 Problem Statement
 With many applicants applying for each position, there has been a decrease in the efficiency of the recruitment process. This is because recruiters have had to go through hundreds, if not thousands, of resumes manually, thus causing inefficiencies and possible bias during the screening process. The end effect is that very talented applicants could be overlooked.
 
