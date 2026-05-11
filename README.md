@@ -180,9 +180,53 @@ Future improvements in AI-based recruitment systems may include:
 •	Voice-enabled recruiter interaction
 •	Advanced deep learning models
 These advancements can make recruitment systems more accurate, transparent, and efficient.
+
 ________________________________________
 
-VIII. CONCLUSION
+VIII. PROPOSED APPROACH
+
+The proposed AI-Based Resume Screening and Job Matching System combines Natural Language Processing (NLP) and Machine Learning (ML) techniques to automate recruitment processes. The system extracts candidate information from resumes, analyses job descriptions, calculates semantic similarity, and ranks candidates based on matching scores.
+
+The framework uses technologies such as TF-IDF, BERT, SBERT, cosine similarity, SVM, Random Forest, and KNN to improve recruitment accuracy and reduce manual screening effort. A recruiter dashboard is also included for resume upload, candidate monitoring, and report generation.
+
+________________________________________
+
+IX. CHALLENGES AND OPEN QUESTIONS
+
+Challenges:
+• Resume formats may vary and affect parsing accuracy
+• AI models may introduce bias during candidate selection
+• Large datasets may increase computational complexity
+• Semantic understanding of resumes can still be limited
+
+Open Questions:
+• Which ML algorithm provides the best matching accuracy?
+• How can explainable AI improve recruiter trust?
+• Can the system support multilingual resumes?
+• How can fairness and ethical recruitment be maintained?
+
+________________________________________
+
+X. WHAT I LEARNED
+
+Through this study, I learned how AI, NLP, and Machine Learning are transforming recruitment systems. I understood the importance of resume parsing, semantic similarity matching, candidate ranking, and recommendation systems.
+
+I also learned that technologies such as BERT, SBERT, TF-IDF, and cosine similarity improve semantic understanding and recruitment efficiency. Additionally, I understood the challenges of AI bias, data quality, and explainability in automated hiring systems.
+
+________________________________________
+
+XI. NEXT STEPS
+
+• Collect recruitment datasets and resumes
+• Implement resume parsing using NLP
+• Develop semantic matching algorithms
+• Build recruiter dashboard interface
+• Test machine learning models for candidate classification
+• Improve system accuracy and fairness
+
+________________________________________
+
+XII. CONCLUSION
 This paper presented a combined review and analysis of three AI-based resume screening systems using NLP and Machine Learning. The study showed that AI technologies significantly improve recruitment efficiency, semantic understanding, and candidate ranking accuracy.
 The first paper focused on scalable recruitment automation using BERT and feedback learning. The second paper introduced SBERT-based semantic job matching with recruiter dashboards. The third paper explored multiple machine learning algorithms for resume classification and recommendation systems.
 The combined analysis demonstrates that modern recruitment systems are evolving from simple keyword filtering to intelligent semantic AI frameworks. Future systems should focus on explainable AI, fairness, multilingual support, and ethical recruitment practices.
