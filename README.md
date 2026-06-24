@@ -149,23 +149,29 @@ Candidate Ranking Module
 6.5 System Workflow
 
 Recruiter Login
-|
+        ↓
 Upload Job Description
-
-↓
-Upload Resumes
-↓
+        ↓
+Upload Resume
+        ↓
 Resume Parsing
-↓
-Skill Extraction
-↓
-NLP Processing
-↓
-Candidate Matching
-↓
+        ↓
+Information Extraction
+(Name, Skills, Education, Experience)
+        ↓
+Text Preprocessing
+        ↓
+Feature Extraction (TF-IDF / NLP)
+        ↓
+Resume & Job Description Matching
+        ↓
+Similarity Score Calculation
+        ↓
 Candidate Ranking
-↓
+        ↓
 Shortlisted Candidates
+        ↓
+Recruiter Dashboard
 ________________________________________
 
 # 7. Results & Analysis
