@@ -19,13 +19,13 @@ The AI Resume Screening & Job Matching System is designed to automate the recrui
 Keywords— Artificial Intelligence (AI), Resume Screening, Job Matching, Natural Language Processing (NLP), Resume Parsing, Machine Learning, Candidate Ranking, TF-IDF, BERT, Recruitment Automation.
 ________________________________________
 
-# 1. INTRODUCTION
+# 1. Introduction
 Recruitment is one of the most important processes in any organization. With the increasing number of job applications, recruiters spend a significant amount of time reviewing resumes manually. Traditional screening methods are often slow, inefficient, and prone to human bias.
 
 The AI Resume Screening & Job Matching System addresses these challenges by automating resume analysis and candidate ranking. Using NLP and Machine Learning algorithms, the system extracts relevant information from resumes and compares it with job descriptions to identify the most suitable candidates.
 ________________________________________
 
-# 2. LITERATURE REVIEW
+# 2. Literature Review
 Several researchers have proposed AI-based recruitment systems to improve resume screening and candidate-job matching.
 
 Roselinkiruba et al. proposed a Smart Recruiting System that combines NLP and Generative AI for automated resume screening and candidate evaluation. Their system uses resume parsing, candidate scoring, bias mitigation, and real-time dashboards to improve recruitment efficiency.
@@ -49,7 +49,7 @@ Sengupta et al. proposed SkillBridgeAI, a real-time AI-based skill gap analysis 
 From the literature survey, it is observed that most existing systems focus on either resume parsing, candidate ranking, or job recommendation. However, integrating resume screening, semantic matching, candidate ranking, and intelligent recruitment support into a single platform remains a challenging task. Therefore, the proposed AI Resume Screening & Job Matching System aims to provide an integrated solution using NLP and AI techniques.
 ________________________________________
 
-# 3. PROBLEM STATEMENT
+# 3. Problem Statement
 Organizations receive hundreds or even thousands of resumes for a single job opening. Manual screening of these resumes is time-consuming and often results in delays and inconsistencies.
 
 Challenges:
