@@ -148,58 +148,29 @@ Candidate Ranking Module
 
 6.5 System Workflow
 
-┌───────────────────────┐
-│   Recruiter Login     │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│ Upload Job Description│
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│     Upload Resume     │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│    Resume Parsing     │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│ Information Extraction│
-│ Skills, Education,    │
-│ Experience, Name      │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│  Text Preprocessing   │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│ Feature Extraction    │
-│    (TF-IDF / NLP)     │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│ Resume & JD Matching  │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│ Similarity Score      │
-│    Calculation        │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│ Candidate Ranking     │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│ Shortlisted           │
-│ Candidates            │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│ Recruiter Dashboard   │
-└───────────────────────┘
+Recruiter Login
+      →
+Upload Job Description
+      →
+Upload Resume
+      →
+Resume Parsing
+      →
+Information Extraction (Name, Skills, Education, Experience)
+      →
+Text Preprocessing
+      →
+Feature Extraction (TF-IDF / NLP)
+      →
+Resume & Job Description Matching
+      →
+Similarity Score Calculation
+      →
+Candidate Ranking
+      →
+Shortlisted Candidates
+      →
+Recruiter Dashboard
 ________________________________________
 
 # 7. Results & Analysis
