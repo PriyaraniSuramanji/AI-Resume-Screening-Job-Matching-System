@@ -89,6 +89,7 @@ Education
 Experience
 Certifications
 Contact Information
+
 5.3 Text Preprocessing
 
 The extracted text is cleaned using:
@@ -97,6 +98,7 @@ Tokenization
 Stop Word Removal
 Lowercase Conversion
 Text Normalization
+
 5.4 Job Description Processing
 
 Recruiters upload job descriptions containing required skills, qualifications, and experience.
@@ -115,6 +117,7 @@ The system calculates similarity between resumes and job descriptions using:
 Cosine Similarity
 Semantic Matching
 Skill Matching
+
 5.7 Candidate Ranking
 
 Candidates are ranked according to their matching scores.
