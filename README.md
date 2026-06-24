@@ -49,7 +49,7 @@ Sengupta et al. proposed SkillBridgeAI, a real-time AI-based skill gap analysis 
 From the literature survey, it is observed that most existing systems focus on either resume parsing, candidate ranking, or job recommendation. However, integrating resume screening, semantic matching, candidate ranking, and intelligent recruitment support into a single platform remains a challenging task. Therefore, the proposed AI Resume Screening & Job Matching System aims to provide an integrated solution using NLP and AI techniques.
 ________________________________________
 
-# 3. PROMBLE STATEMENT
+# 3. PROBLEM STATEMENT
 Organizations receive hundreds or even thousands of resumes for a single job opening. Manual screening of these resumes is time-consuming and often results in delays and inconsistencies.
 
 Challenges:
