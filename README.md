@@ -128,22 +128,30 @@ HTML
 CSS
 Bootstrap
 JavaScript
+
 6.2 Backend
+
 Python
 Flask / Django
+
 6.3 Database
+
 SQLite / MySQL
+
 6.4 AI Components
+
 Resume Parser
 NLP Processing
 TF-IDF Vectorizer
 Cosine Similarity Engine
 Candidate Ranking Module
+
 6.5 System Workflow
 
 Recruiter Login
-↓
+|
 Upload Job Description
+
 ↓
 Upload Resumes
 ↓
