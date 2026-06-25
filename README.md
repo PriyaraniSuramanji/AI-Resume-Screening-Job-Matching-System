@@ -28,25 +28,20 @@ ________________________________________
 # 2. Literature Review
 Several researchers have proposed AI-based recruitment systems to improve resume screening and candidate-job matching.
 
-Roselinkiruba et al. proposed a Smart Recruiting System that combines NLP and Generative AI for automated resume screening and candidate evaluation. Their system uses resume parsing, candidate scoring, bias mitigation, and real-time dashboards to improve recruitment efficiency.
+Here are short **summary-style descriptions** for each paper.
 
-Raja Sekar et al. introduced a multimodal recruitment framework using BERT, CNN, and Large Language Models (LLMs). Their system performs resume parsing, job-role classification, mock interview simulation, and fairness auditing to ensure ethical candidate selection.
+### 1. Roselinkiruba et al. (2025)
 
-Mukil Ganesh et al. developed ReSage AI, an AI-enhanced resume screening framework that analyzes resumes using Google Gemini API. The system provides intelligent content scoring, resume quality evaluation, and personalized suggestions for improving candidate profiles.
+Roselinkiruba et al. proposed a Smart Recruiting System that uses **Natural Language Processing (NLP)** and **Generative AI** to automate resume screening. The system performs resume parsing, candidate scoring, bias reduction, and provides a real-time recruiter dashboard, making the recruitment process faster, fairer, and more efficient. 
 
-Dhivya et al. proposed an AI-Based Resume Screening System using Generative AI. Their system integrates Gemini AI, resume analysis, skill-gap identification, keyword highlighting, and job-description matching to improve candidate evaluation accuracy.
+### 2. Raja Sekar et al. (2025)
 
-Putluru et al. developed a semantic resume screening system using Transformer Networks and Learning-to-Rank models. The framework employs BERT-based Named Entity Recognition, Sentence-BERT embeddings, and RankNet ranking techniques to perform accurate candidate shortlisting.
+Raja Sekar et al. developed a multimodal recruitment framework using **BERT, CNN, and Large Language Models (LLMs)**. The system automates resume parsing, job-role classification, and mock interviews while using fairness auditing to ensure accurate and ethical candidate selection. 
 
-Asad proposed an LLM-driven resume parsing and job description matching system evaluated on 998 real-world resumes. The study demonstrated that Large Language Models significantly reduce resume processing time while maintaining matching accuracy.
+### 3. Mukil Ganesh et al. (2025)
 
-Vernekar et al. introduced an AI-driven resume analysis platform that combines skill extraction, semantic job matching, career recommendations, and AI-powered interview assistance. The system achieved high accuracy in candidate-job compatibility analysis.
+Mukil Ganesh et al. introduced **ReSage AI**, an AI-powered resume screening framework that uses the **Google Gemini API**. It evaluates resume quality, provides intelligent content scoring, and offers personalized suggestions to help candidates improve their resumes and increase their chances of selection. 
 
-Singh et al. compared traditional NLP techniques such as TF-IDF and SpaCy with Generative AI models like Gemini for resume screening and recommendation systems. Their study concluded that Generative AI provides better contextual understanding compared to keyword-based systems.
-
-Sengupta et al. proposed SkillBridgeAI, a real-time AI-based skill gap analysis and career guidance platform that uses Generative AI to provide personalized recommendations, resume optimization, and adaptive learning pathways.
-
-From the literature survey, it is observed that most existing systems focus on either resume parsing, candidate ranking, or job recommendation. However, integrating resume screening, semantic matching, candidate ranking, and intelligent recruitment support into a single platform remains a challenging task. Therefore, the proposed AI Resume Screening & Job Matching System aims to provide an integrated solution using NLP and AI techniques.
 ________________________________________
 
 # 3. Problem Statement
