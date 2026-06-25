@@ -205,13 +205,11 @@ ________________________________________
 The system can be extended with the following enhancements:
 
 Integration with LinkedIn and job portals.
-AI-powered interview scheduling.
 Candidate skill gap analysis.
 Real-time recruiter dashboard.
 Integration with Grok API, Gemini API, or OpenAI API.
 Predictive hiring analytics.
-Multi-language resume processing.
-Advanced semantic matching using Large Language Models (LLMs).
+
 ________________________________________
 
 # Acknowledgements
