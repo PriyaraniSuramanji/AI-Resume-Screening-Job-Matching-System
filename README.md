@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://drait.edu.in/assets/images/full_logo-wide.png" height="80" style="background:white; padding:8px; margin:0 16px;" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Ht9WSXBdz3Ce1AUjQBF2_1JAEohHpHv2tA&s" height="80" style="background:white; padding:8px; margin:0 16px;" />
 <img src="https://www.erafoundationindia.org/images/logo.svg" height="80" style="background:white; padding:8px; margin:0 16px;" />
 <img src="https://comedkares.org/wp-content/uploads/2023/04/Comedkares-Logo-EPS.png" height="80" style="background:white; padding:8px; margin:0 16px;" />
 
